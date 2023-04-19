@@ -2,7 +2,7 @@
 
 Hola, soy Ángel Martínez, estudiante de Grado Superior de Desarollo de Aplicaciones multiplataforma en [Nicolau Copèrnic](https://copernic.cat/). Soy un desarollador entusiasta en las nuevas tecnologías. Siempre abierto a colaborar en proyectos e ideas innovadoras/disruptivas. Siéntase libre de conectarse conmigo aquí:
 
-[![Linkedin Badge](https://img.shields.io/badge/-aemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/%C3%A1ngel-mart%C3%ADnez-gonzalez-b605141b0/](https://www.linkedin.com/in/%C3%A1ngel-mart%C3%ADnez-gonzalez-b605141b0/))]
+[![Linkedin Badge](https://img.shields.io/badge/-amartiinezg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/%C3%A1ngel-mart%C3%ADnez-gonzalez-b605141b0/](https://www.linkedin.com/in/%C3%A1ngel-mart%C3%ADnez-gonzalez-b605141b0/)]
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
